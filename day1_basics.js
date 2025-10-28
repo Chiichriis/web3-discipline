@@ -15,7 +15,7 @@ r1.question("Input Number: ", (answer) =>{
     r1.close;
 });
 
-//second variation using prompt (for web)
+//second variation using prompt (for web interfaces)
 let num = prompt("Input Number: ");
 if((parseInt(num))%2 == 0){
     console.log("The Number is Even");
@@ -37,3 +37,4 @@ function reverseString(str) {
 }
 
 console.log(reverseString("the text goes in here...!"));
+
