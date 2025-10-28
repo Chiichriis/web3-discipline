@@ -7,4 +7,7 @@ FIVE THINGS I LEARNED
 
 TWO THINGS I FOUND CONFUSING
 1. I had to learn about readline becuse prompt was not working on my console. The readline is still alittle weird to me though i used it effectively.
-2. Program 3 was a bit challenging but fun after i had a grasp of it
+
+2. Program 3 was a bit challenging but fun after i had a grasp of it.
+
+I like to get very comfortable with difficult task, it gives me the notion that i am actually learning and growing. and i like it. however in as much as i like difficult task, i also want to be able to solve them eventually without wasting so much time
